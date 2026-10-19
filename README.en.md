@@ -12,15 +12,18 @@
 
 B&N Lectures are animated lessons in mathematics, physics, computing, chaos and geometry, made by B&N Solutions. Every video is programmed end to end: scenes are functions of time, simulations solve the actual physics, and every number on screen is computed in the same frame. The lessons are in Spanish.
 
-All the code is open. This repository is the starting point: it explains the project and links to the three repositories where each part lives.
+All the code is open. This repository is the starting point: it explains the project and links to the four repositories where each part lives.
 
 ### `// 01` The repositories
 
 <table>
   <tr>
-    <td width="33%" valign="top"><a href="https://github.com/4mser/bn-lectures-clases"><img src="docs/assets/card-clases.gif" width="100%" alt="Six moments from the Electricity and Magnetism series: Rutherford, the torsion balance, the field lines of a dipole, a charge on a parabolic path, the infinite plane and a charged semicircle"></a><br><a href="https://github.com/4mser/bn-lectures-clases"><b>bn-lectures-clases</b></a><br><sub>The lessons, organized by degree and course. It starts with the six Electricity and Magnetism lessons, the notes they follow and the template for new lessons.</sub></td>
-    <td width="33%" valign="top"><a href="https://github.com/4mser/bn-lectures-teaser"><img src="docs/assets/card-teaser.gif" width="100%" alt="Black hole with a white accretion disk bending above and below the shadow"></a><br><a href="https://github.com/4mser/bn-lectures-teaser"><b>bn-lectures-teaser</b></a><br><sub>The 93-second teaser in 4:5, 16:9 and 9:16: a canvas and WebGL2 engine, precomputed simulations and every cut anchored to the song.</sub></td>
-    <td width="33%" valign="top"><a href="https://github.com/4mser/bn-lectures-biblioteca"><img src="docs/assets/card-biblioteca.gif" width="100%" alt="Mosaic of simulation thumbnails changing one by one: electric fields, a black hole, reaction-diffusion and orbits"></a><br><a href="https://github.com/4mser/bn-lectures-biblioteca"><b>bn-lectures-biblioteca</b></a><br><sub>The catalog of the 192 simulations and effects from B&N's videos, with their equation, their origin and seven modules ready to reuse.</sub></td>
+    <td width="50%" valign="top"><a href="https://github.com/4mser/bn-lectures-clases"><img src="docs/assets/card-clases.gif" width="100%" alt="Six moments from the Electricity and Magnetism series: Rutherford, the torsion balance, the field lines of a dipole, a charge on a parabolic path, the infinite plane and a charged semicircle"></a><br><a href="https://github.com/4mser/bn-lectures-clases"><b>bn-lectures-clases</b></a><br><sub>The lessons, organized by degree and course. It starts with the six Electricity and Magnetism lessons, the notes they follow and the template for new lessons.</sub></td>
+    <td width="50%" valign="top"><a href="https://github.com/4mser/bn-lectures-teaser"><img src="docs/assets/card-teaser.gif" width="100%" alt="Black hole with a white accretion disk bending above and below the shadow"></a><br><a href="https://github.com/4mser/bn-lectures-teaser"><b>bn-lectures-teaser</b></a><br><sub>The 93-second teaser in 4:5, 16:9 and 9:16: a canvas and WebGL2 engine, precomputed simulations and every cut anchored to the song.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><a href="https://github.com/4mser/bn-lectures-biblioteca"><img src="docs/assets/card-biblioteca.gif" width="100%" alt="Mosaic of simulation thumbnails changing one by one: electric fields, a black hole, reaction-diffusion and orbits"></a><br><a href="https://github.com/4mser/bn-lectures-biblioteca"><b>bn-lectures-biblioteca</b></a><br><sub>The catalog of the 192 simulations and effects from B&N's videos, with their equation, their origin and seven modules ready to reuse.</sub></td>
+    <td width="50%" valign="top"><a href="https://github.com/4mser/bn-lab-simulations"><img src="docs/assets/card-lab.gif" width="100%" alt="Live lab simulations: the Lorenz attractor, the double slit, a wormhole, a Chladni figure, curved spacetime and a spiral galaxy"></a><br><a href="https://github.com/4mser/bn-lab-simulations"><b>bn-lab-simulations</b></a><br><sub>The interactive lab: forty physics and mathematics simulations that run in the browser and a GPU Navier-Stokes fluid, validated against published results. The lessons' simulations come from its engine.</sub></td>
   </tr>
 </table>
 
@@ -59,7 +62,7 @@ B&N Lectures is made by three people.
 
 ### `// 05` License
 
-The code and documentation in all four repositories are under the [MIT License](LICENSE), © 2026 B&N Solutions.
+The code and documentation in all five repositories are under the [MIT License](LICENSE), © 2026 B&N Solutions.
 
 The B&N Solutions name, the B&N mark and logo and the name «B&N Lectures» are not covered by MIT and remain with B&N Solutions ([TRADEMARKS.md](TRADEMARKS.md)). Javier Patiño's notes and derivations carry their own license, stated in their folder in `bn-lectures-clases`. The teaser's music is not redistributed.
 
