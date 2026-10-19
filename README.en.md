@@ -51,21 +51,11 @@ Six lessons in order, from electric charge to continuous distributions.
 
 B&N Lectures is made by three people.
 
-**Nicolás Moreno** · [@4mser](https://github.com/4mser) · [LinkedIn](https://www.linkedin.com/in/nicolasmorenoavila)<br>
-Creative and technical director of B&N Lectures. He designed and programmed:
-
-- the animation engine (canvas and WebGL2 scenes, the retro look and the kinetic typography);
-- the system that syncs every frame to the music: audio analysis, beat conform and the song's real events;
-- the physics simulators: 2D Schrödinger, fluids, Gray-Scott, field LIC, Chladni and Lorenz on the GPU;
-- the teaser in its three formats;
-- the series of animated Electricity and Magnetism lessons;
-- the library of 192 simulations and the template for new lessons.
-
-**Benjamín Campos** · [@B3njjaman](https://github.com/B3njjaman)<br>
-Co-founder of B&N Solutions. He made the original reel «De lo discreto a lo continuo» and the simulation engine the series builds on.
-
-**Javier Patiño**<br>
-Physics graduate and lecturer. Author of the Electricity and Magnetism notes and derivations the lessons are based on, and the voice of B&N Lectures.
+| | |
+|---|---|
+| **Nicolás Moreno**<br>[@4mser](https://github.com/4mser) | Co-founder of B&N Solutions and software engineer. Builds the animation engine, the simulations and the videos. |
+| **Benjamín Campos**<br>[@B3njjaman](https://github.com/B3njjaman) | Co-founder of B&N Solutions and physics engineer. Made the series' original reel and its simulation engine. |
+| **Javier Patiño** | Physics graduate and Electricity and Magnetism lecturer. Author of the notes the classes are based on, and the voice of B&N Lectures. |
 
 ### `// 05` License
 
