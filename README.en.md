@@ -54,7 +54,7 @@ B&N Lectures is made by three people.
 | | |
 |---|---|
 | **Nicolás Moreno**<br>[@4mser](https://github.com/4mser) | Co-founder of B&N Solutions and software engineer. Created the B&N Lab simulation engine and builds the animations and the videos. |
-| **Benjamín Campos**<br>[@B3njjaman](https://github.com/B3njjaman) | Co-founder of B&N Solutions and physics engineer. Made the series' original reel, «De lo discreto a lo continuo». |
+| **Benjamín Campos**<br>[@B3njjaman](https://github.com/B3njjaman) | Co-founder of B&N Solutions and physics engineer. Author of the lesson «De lo discreto a lo continuo». |
 | **Javier Patiño** | Physics graduate and Electricity and Magnetism lecturer. Author of the notes the classes are based on, and the voice of B&N Lectures. |
 
 ### `// 05` License
