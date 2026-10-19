@@ -1,0 +1,25 @@
+# Sistema y editores
+.DS_Store
+*.pyc
+__pycache__/
+.venv/
+.env
+.env.*
+
+# Dependencias y salidas regenerables (ver README: «Cómo reproducirlo»)
+node_modules/
+build/
+out/
+tmp/
+pylib
+pylib/
+biblioteca/tmp/
+
+# Música: la licencia de Pixabay no permite redistribuir el archivo suelto
+teaser/musica/*.mp3
+teaser/musica/*.wav
+teaser/public/musica.wav
+
+# Assets generados por las herramientas de Python
+teaser/public/sim/
+teaser/public/img/campo-*
